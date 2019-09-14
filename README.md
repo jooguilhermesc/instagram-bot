@@ -11,6 +11,23 @@ And, to be honest I used a lot of this text: https://towardsdatascience.com/incr
 
 Even that I needed to change a lot of thing, this texts helps me a lot.
 
+1 - How to configure your enviroment to run this project?
+
+step 1) Install selenium and pandas usind pip comand:
+Here you can find more about selenium project: https://pypi.org/project/selenium/
+Here you can find more about pandas project: https://pypi.org/project/pandas/
+
+step 2) Download and set drive:
+First you'll need to check what's the version of the browser that you're using. 
+
+If you're using Chrome: You can just click on the options and look for "Help", then you choose "About Google Chrome".
+If you're using Firefox: Is the same way of Chrome, but U choose "About Firefox".
+
+Now you can download chromedriver for the version that you have installed on your machine here: https://chromedriver.chromium.org/downloads
+
+And you can download geckodriver (firefox driver) with this link: https://github.com/mozilla/geckodriver/releases
+
+step 3) set the path to driver in the code 
 
 [VERSÃO EM PORTUGUÊS]
 
